@@ -19,7 +19,7 @@ on:
       hardware:
         description: '[0] ALL [1] WRT3200ACM, [2] WRT32X, [3] WRT1200AC, [4] WRT1900ACS [5] WRT1900AC V1, [6] WRT1900AC V2'
         required: true
-        default: '1'
+        default: '5'
       source:
         description: '[1] Stable, [2] Snapshot, [3] LED'
         required: true
